@@ -56,6 +56,7 @@ namespace BlooBot
             this._Commands.CommandErrored += this.CommandsErrored;
 
             this._Commands.RegisterCommands<Commands.UserCommands> ();
+            this._Commands.RegisterCommands<Commands.CharacterCommands> ();
 
             this._Client.Ready += this.ClientReady;
 
