@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using DSharpPlus;
 using DSharpPlus.EventArgs;
 using Newtonsoft.Json;
+using BlooBot.Objects;
 
-namespace Bloo_Bot
+namespace BlooBot
 {
     class Bloo
     {
