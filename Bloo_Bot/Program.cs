@@ -1,4 +1,4 @@
-﻿namespace Bloo_Bot
+﻿namespace BlooBot
 {
     class Program
     {
